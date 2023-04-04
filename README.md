@@ -1,5 +1,5 @@
 # IL2CPP
-IL2CPP Library Leaked Source Code by KoboltMiyori... Enjoy!!!
+IL2CPP Leaked Source Code by KoboltMiyori... Enjoy!!!
 
 IL2CPP It's Library, what Obfuscated C# code and remakes into C++ Code...
 
